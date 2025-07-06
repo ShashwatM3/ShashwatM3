@@ -108,6 +108,10 @@ src="https://img.shields.io/badge/follow-%40ShashwatM30-0891b2?logo=x&style=for-
 </a> &nbsp;
 
 ### Badges
+#### My GitHub Stats
+
+<br/>
+<a href="http://www.github.com/ShashwatM3"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatM3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
 
 #### Top Repositories
 
