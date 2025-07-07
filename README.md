@@ -115,7 +115,7 @@ src="https://img.shields.io/badge/follow-%40ShashwatM30-0891b2?logo=x&style=for-
 
 #### Top Repositories
 
-<div><a style="margin-bottom: 10px" href="https://github.com/ShashwatM3/chatgpt-deep-research" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatM3&repo=chatgpt-deep-research&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div><a style="margin-bottom: 10px" href="https://github.com/ShashwatM3/aira-deep-research" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatM3&repo=aira-deep-research&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div><a style="margin-bottom: 10px" href="https://github.com/ShashwatM3/Los-Angeles-Crime-Analysis" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatM3&repo=Los-Angeles-Crime-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
