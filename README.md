@@ -6,9 +6,10 @@ I love building and creating stuff. Passionate AI Developer. Data Science sophom
 
 - 📫 Reach me at [smahalanobis@ucdavis.edu](mailto:smahalanobis@ucdavis.edu)
 - 👨‍💻 Check out my portfolio at [MyPortfolio](https://shashwatm.vercel.app)
-- 🔭 I'm currently working on [Stormee AI — Validation and Competitor Insights in minutes ⚡️](https://www.stormee.app)
-- 🌱 I'm currently learning Integration of Agentic Workflows + Full-stack Development
-- ⚡ Fun fact about me: : Always up for 3 AM grocery runs
+- 🔭 I'm currently working on a Neural Graph Memory Architecture for AI Agents
+- Also working on a Real-time 3D AI Tutor for Children (Realtime Avatar + Voice)
+- 🌱 I'm currently learning Advanced Information Representation Techniques for AI Agents
+- ⚡ Fun fact about me: : I learn fast. I execute faster.
 
 <a href="https://www.x.com/ShashwatM30" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/follow-%40ShashwatM30-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> &nbsp;
