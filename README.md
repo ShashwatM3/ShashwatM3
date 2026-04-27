@@ -1,124 +1,95 @@
-# Hello 👋 I am Shashwat M
+<div align="center">
 
-## Creator | Everything AI
+# Shashwat Mahalanobis
 
-I love building and creating stuff. Passionate AI Developer. Data Science sophomore @ UC Davis.
+**Research Engineer · Bridging Frontier AI Research to Production Systems**
 
-- 📫 Reach me at [smahalanobis@ucdavis.edu](mailto:smahalanobis@ucdavis.edu)
-- 👨‍💻 Check out my portfolio at [MyPortfolio](https://shashwatm.vercel.app)
-- 🔭 I'm currently working on a Neural Graph Memory Architecture for AI Agents
-- Also working on a Real-time 3D AI Tutor for Children (Realtime Avatar + Voice)
-- 🌱 I'm currently learning Advanced Information Representation Techniques for AI Agents
-- ⚡ Fun fact about me: : I learn fast. I execute faster.
+*Data Science @ UC Davis · AI Researcher · Builder*
 
-<a href="https://www.x.com/ShashwatM30" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/badge/follow-%40ShashwatM30-0891b2?logo=x&style=for-the-badge&labelColor=1c1917" /></a> &nbsp;
-### Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shashwat--mahalanobis-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shashwat-mahalanobis)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shashwatm.vercel.app-000?style=flat-square&logo=vercel)](https://shashwatm.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-@ShashwatM30-1DA1F2?style=flat-square&logo=x)](https://www.x.com/ShashwatM30)
+[![Email](https://img.shields.io/badge/Email-smahalanobis@ucdavis.edu-D14836?style=flat-square&logo=gmail)](mailto:smahalanobis@ucdavis.edu)
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" />
-</picture></a> &nbsp;
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/java-colored.svg" alt="Java" />
-</picture></a> &nbsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/rlang-colored.svg" alt="rlang" />
-</picture></a> &nbsp;
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/python-colored.svg" alt="Python" />
-</picture></a> &nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" />
-</picture></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/html5-colored.svg" alt="HTML5" />
-</picture></a> &nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/react-colored.svg" alt="React" />
-</picture></a> &nbsp;
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" />
-</picture></a> &nbsp;
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/vuejs-colored.svg" alt="Vue" />
-</picture></a> &nbsp;
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/materialui-colored.svg" alt="Material UI" />
-</picture></a> &nbsp;
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" />
-</picture></a> &nbsp;
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/chakra-colored.svg" alt="Chakra UI" />
-</picture></a> &nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" />
-</picture></a> &nbsp;
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/css3-colored.svg" alt="CSS3" />
-</picture></a> &nbsp;
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/vite-colored.svg" alt="Vite" />
-</picture></a> &nbsp;
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" />
-</picture></a> &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/express-colored-dark.svg" alt="Express" />
-</picture></a> &nbsp;
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/django-colored-dark.svg" alt="Django" />
-</picture></a> &nbsp;
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" />
-</picture></a> &nbsp;
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/supabase-colored.svg" alt="Supabase" />
-</picture></a> &nbsp;
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" />
-</picture></a> &nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/firebase-colored.svg" alt="Firebase" />
-</picture></a> &nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/figma-colored.svg" alt="Figma" />
-</picture></a> &nbsp;
+</div>
 
-### Social
+---
 
-<a href="https://www.github.com/ShashwatM3" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.x.com/ShashwatM3" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/twitter-dark.svg" alt="Twitter" />
-</picture>
-</a> &nbsp;
-<a href="https://www.linkedin.com/in/shashwat-mahalanobis" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/linkedin.svg" alt="linkedin" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/shash.m30/" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
+## About
 
-### Badges
-#### My GitHub Stats
+I'm a sophomore studying Data Science at UC Davis, working across three research labs and two startups simultaneously. My work lives at the intersection of applied ML research and production engineering — I'm most interested in problems where rigor from the research side and reliability from the engineering side both matter.
 
-<br/>
-<a href="http://www.github.com/ShashwatM3"><img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShashwatM3&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" /></a> <br/>
+Currently: medical imaging (uveitis), robotic manipulation, AI communication research, and agentic systems infrastructure.
 
-#### Top Repositories
+---
 
-<div><a style="margin-bottom: 10px" href="https://github.com/ShashwatM3/aira-deep-research" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatM3&repo=aira-deep-research&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div><a style="margin-bottom: 10px" href="https://github.com/ShashwatM3/Los-Angeles-Crime-Analysis" ><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=ShashwatM3&repo=Los-Angeles-Crime-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+## Research
 
+### [LARA Lab](https://lara-soltani.com/) · Undergraduate Researcher
+*Laboratory for AI, Robotics, and Automation · UC Davis*
 
+Investigating whether FA-derived inflammatory signals — zone-level leakage severity across 10 anatomically defined retinal regions — can be inferred from non-invasive fundus photographs via cross-modal supervision. A ConvNeXt-Tiny backbone extracts spatially-aware features; zone-specific vectors are isolated via masked average pooling and classified by a shared MLP head. The goal: approximate FA-quality uveitis grading from standard fundus imaging alone, enabling scalable non-invasive screening.
 
-<!-- Thank you for using ProfileX - https://profilex.dev [by Vandit Shah] -->
+### [DARE Lab](https://ucd-dare.github.io/) · Undergraduate Researcher
+*UC Davis*
+
+Post-training World Action Models (LingBot-VA and Fast-WAM) for real-world robotic manipulation. Using distillation for faster inference and online learning for environment adaptation. Evaluated on RoboTwin in simulation and on physical Franka/ALOHA arms.
+
+### [VICTR Lab](https://communication.ucdavis.edu/research-labs) · Undergraduate Researcher
+*Virtual Interactive Communication Technology Research · UC Davis*
+
+Research at the intersection of AI and human communication.
+
+---
+
+## Industry
+
+### [Altitut](https://altitut.ai/) · Backend & Cloud Engineering
+*Apr 2026 – Present*
+
+Building AI cloud agent pipelines and Gemma 4 use cases.
+
+### [LibaSpace](https://libaspace.com/) · Software Engineering Intern
+*Jan 2026 – Present*
+
+Engineered a stateful WhatsApp assistant (Node.js, whatsapp-web.js) scaling to 50+ concurrent users. Designed GPT-4o-mini multi-turn flows for job-search intent capture; implemented function-calling and context compression to cut latency while preserving session fidelity.
+
+---
+
+## Selected Work
+
+| Project | Description | Stack |
+|---|---|---|
+| **[Neural Graph Memory](https://github.com/ShashwatM3/Neural-Graph-Memory-Implementation)** | Implementation of [Neural Graph Memory](https://www.researchgate.net/publication/394440420_Neural_Graph_Memory_A_Structured_Approach_to_Long-Term_Memory_in_Multimodal_Agents) — structured long-term memory architecture for multimodal agents using graph-based episodic storage | Python, PyTorch, NetworkX |
+| **Production RAG API** | Modular FastAPI RAG backend with Docker, GitHub Actions CI/CD, and pytest-gated releases | Python, FastAPI, Docker |
+| **Multimodal Sentiment Analysis** | Fused BERT, video, and audio encodings in PyTorch to classify 7 emotions on MELD; deployed on SageMaker | PyTorch, AWS SageMaker, Next.js |
+| **Coursie** | Converts conversational transcripts into structured 4–8 module learning paths via GPT-4o curriculum pipeline | TypeScript, Next.js, Vapi |
+
+---
+
+## Achievements
+
+- 🏆 **2× National Champion** — All-UAE National Competition + All-UAE/India ML Competition
+- 🎯 **Multimodal Hackathon Finalist** — [Multimodal Hack](https://luma.com/multimodalhack?tk=gO8u1T)
+- 🛡️ Built a digital safety education platform in high school sustaining **900+ active users** over several months
+- 🤖 **AI Fellow** — 1 of 50 selected nationally for Break Through Tech's Agentic AI specialization (500-person pool)
+
+---
+
+## Skills
+
+**Languages** · Python · TypeScript/JavaScript · SQL · R
+
+**ML/AI** · PyTorch · Transformers · Fine-tuning · RAG · Agentic Systems
+
+**Frameworks** · Next.js · React · FastAPI · Node.js · Flask
+
+**Cloud & DevOps** · Docker · GitHub Actions · Firebase · Supabase · AWS SageMaker · Vercel
+
+---
+
+<div align="center">
+
+*Sophomore. Researcher. Builder. Fast.*
+
+</div>
