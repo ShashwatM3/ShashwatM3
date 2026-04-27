@@ -15,6 +15,15 @@
 
 ---
 
+## Resumes
+
+| Focus | Link |
+|---|---|
+| 🤖 **GenAI / AI Research** | [View →](https://drive.google.com/file/d/1OGwOSpQXk-8sTK7idiqs70gnrVIM-Y7G/view?usp=sharing) |
+| 💻 **Software Engineering** | [View →](https://drive.google.com/file/d/1P51CHdcn_Q74seOpwNDa7-ulkmBn_OLV/view?usp=sharing) |
+
+---
+
 ## About
 
 I'm a sophomore studying Data Science at UC Davis, working across three research labs and two startups simultaneously. My work lives at the intersection of applied ML research and production engineering — I'm most interested in problems where rigor from the research side and reliability from the engineering side both matter.
